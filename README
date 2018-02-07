@@ -2,4 +2,7 @@ Script zur Grundinstallation einzelner Optionen auf einem frisch aufgesetzten RP
 
 Script ist momentan ungetestet und als Alpha anzusehen.
 
+
+das Script per ./setup ausführen. Rootrchte werden im script mit sudo geholt. Die beiden autostartfiles für node-red und homebridge müssen im ausführenden Verzeichnis liegen.
+
 Comes without any Guarantee!!!!
