@@ -1,0 +1,3 @@
+#!/usr/bin/python
+
+cd /home/pi/ && sudo apt-get update && sudo apt-get -y upgrade && sudo apt-get -y install golang && go get github.com/xuqingfeng/fregata/cmd/fregata && go get github.com/xuqingfeng/fregata/cmd/fregatad
